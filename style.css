@@ -1,0 +1,117 @@
+.picture-of-me{
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 20px;
+    border: solid #C8CFA0;
+}
+.container{
+    background: repeating-linear-gradient(#78ABA8, #78ABA8 20px, #FCDC94 20px, #FCDC94 25px);
+}
+div.header{
+    background-color: #EF9C66;
+    width: 800px;
+}
+.box{
+    border: dotted 10px #78ABA8;
+    position: relative;
+    width: 400px;
+    left: 200px;
+}
+section.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+p{
+    margin-top: 0;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1{
+    margin-bottom: 10px;
+}
+div.all-me{
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
+    grid-template-rows: 1fr;
+    gap: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+h2{
+    display: block;
+    background-color:#EF9C66;
+    text-align: center;
+}
+.all-me h3{
+    border-bottom: dotted 10px #78ABA8;
+    padding-bottom: 5px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.bartender{
+    background-color:#EF9C66;
+    width: 400px;
+    display: inline-block;
+}
+.web-development{
+    background-color:#EF9C66;
+    width: 400px;
+    display: inline-block;
+}
+.project-management{
+    background-color:#EF9C66;
+    width: 400px;
+    display: inline-block;
+}
+.all-me img{
+    border: solid #C8CFA0;
+    width: 300px;
+    height: 200px;
+}
+.body{
+    background-color: #C8CFA0;
+}
+.all-me p{
+    margin-top: 10px;
+}
+.bartender > p{
+    margin-bottom: 0;
+}
+.navbar{
+    font-size: 40px;
+    text-align: center;
+}
+.resume{
+    color:#78ABA8;
+}
+.know-more{
+    color:#78ABA8;
+}
+.contact-me {
+    background-color: #EF9C66;
+    width: 300px;
+    height: 50px;
+    text-align: left;
+    padding-left: 10px;
+    border: dotted 7px #78aba8;
+}
+.contact-me p{
+    margin: 0;
+}
+p.phone{
+    margin-top: 7px;
+}
+}
+.playfair-display-<uniquifier> {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
